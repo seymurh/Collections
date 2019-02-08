@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace matrix
 {
-    class Program
+    class matrix
     {
         static void Main(string[] args)
         {
