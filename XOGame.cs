@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace XOGame
 {
-    class Program
+    class XOGame
     {
         static void Main(string[] args)
         {
