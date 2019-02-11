@@ -36,6 +36,7 @@ namespace XOGame
                     Console.WriteLine("This position is taken, choose again!");
                     Board(nums);
                     goto Coordinates;
+                    // please don't do ( goto Coordinates;) anymore :) Just forget about goto, it is evil. Instead use loops
                 }
 
                 
